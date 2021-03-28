@@ -1,0 +1,16 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://img.icons8.com/plasticine/2x/chuck-norris.png",
+    "location": "Baltimore, US",
+    "social": {
+      "twitter_handle": "chuck_pool"
+    },
+    "about": {
+      "me": "The Chuck Norris Stake Pool can produce a block. Without a block producer node.",
+      "server": "Servers located in the US, Baltimore with SLA 99.95%"
+    },
+    "my-pool-ids": {
+      "0": "bacba1f12e18b1cce54615fa40ac144c41f0e8b163a5bea2547ebb93"
+    }
+  }
+}
