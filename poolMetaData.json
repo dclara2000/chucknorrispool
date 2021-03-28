@@ -3,5 +3,5 @@
 "description": "Once Chuck Norris sent ADA to a Bitcoin wallet and the transaction was successful!",
 "ticker": "CHUCK",
 "homepage": "https://twitter.com/pool_chuck",
-"extended": ""
+"extended": "https://raw.githubusercontent.com/dclara2000/chucknorrispool/main/extendedPoolMetaData.json"
 }
