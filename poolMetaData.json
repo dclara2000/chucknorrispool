@@ -1,7 +1,7 @@
 {
-"name": "Chuck Norris Stake Pool",
-"description": "Chuck Norris once sent ADA to a Bitcoin wallet and the transaction was successful!", 
-"ticker": "CHUCK", 
-"homepage": "https://twitter.com/NorrisStake", 
-"extended": "https://raw.githubusercontent.com/dclara2000/chucknorrispool/main/extendedPoolMetaData.json" 
+"name":"Chuck Norris Stake Pool",
+"description":"Chuck Norris once sent ADA to a Bitcoin wallet and the transaction was successful!", 
+"ticker":"CHUCK", 
+"homepage":"https://twitter.com/NorrisStake", 
+"extended":"https://raw.githubusercontent.com/dclara2000/chucknorrispool/main/extendedPoolMetaData.json" 
 }
